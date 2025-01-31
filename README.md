@@ -25,12 +25,12 @@ This Power BI dashboard provides a **comprehensive sales performance analysis** 
 - **DAX & Data Modeling**  
 
 ##  How to Use  
-1. **Download the `.pbix` file** from [GitHub Repository](#)  
+1. **Download the `.pbix` file** from [Reliance Dashboard](https://github.com/Tej-99/Reliance-SMART-Sales-Dashboard/blob/main/Reliance_Dashboard.pbix) 
 2. Open in **Power BI Desktop**  
 3. Explore the **interactive visualizations & insights**  
 
 ## Dashboard Preview  
-![Reliance SMART Dashboard]()  
+![Reliance Dashboard](Reliance_Dashboard.jpg)
 
 ## Business Impact  
 - Improved **sales performance tracking** & **strategic decision-making**  
